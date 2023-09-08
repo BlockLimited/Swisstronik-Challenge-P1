@@ -1,2 +1,4 @@
-# Swisstronik-Challenge-P1
-Swisstronik Challenge #1
+# Swisstronik Challenge #1
+```"Contract deployment - Hardhat"```
+---
+
